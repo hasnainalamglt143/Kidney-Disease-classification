@@ -1,0 +1,157 @@
+Metadata-Version: 2.4
+Name: cnn_classifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/hasnainalamglt143/KKidney-Disease-classification
+Author: hasnainalamglt143
+Author-email: hasnainalamglt143@gmail.com
+Project-URL: Bug Tracker, https://github.com/hasnainalamglt143/KKidney-Disease-classification/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+
+# 🩺 Kidney Disease Detection using CNN
+
+This project implements a **Convolutional Neural Network (CNN)** to detect **Kidney Disease** from medical imaging data. The goal is to assist healthcare professionals in early detection and classification of kidney-related issues using deep learning.
+
+---
+
+## 📌 Features
+
+* 📂 Structured ML project with modular code (config, components, utils, pipeline).
+* 🧠 CNN-based deep learning model for disease detection.
+* ⚡ Data versioning and reproducibility using **DVC**.
+* 📊 Experiment tracking with **MLflow** (optional).
+* 🚀 Ready for deployment (can be turned into an API or web app).
+
+---
+
+## 📁 Project Structure
+
+```bash
+.
+├── .github/workflows/      # CI/CD workflows (GitHub Actions)
+├── config/                 # Config files (YAML)
+├── research/               # Jupyter notebooks for experimentation
+├── src/cnn_classifier/     # Source code (modularized)
+│   ├── components/         # Model building blocks
+│   ├── pipeline/           # Training/inference pipelines
+│   ├── utils/              # Helper functions
+│   ├── config/             # Configurations
+│   ├── entity/             # Data entity classes
+│   └── constants/          # Project constants
+├── templates/              # HTML templates (if deploying as web app)
+├── requirements.txt        # Python dependencies
+├── setup.py                # Packaging info (installable as package)
+├── dvc.yaml                # DVC pipeline definition
+├── params.yaml             # Model hyperparameters
+└── README.md               # Project documentation
+```
+
+---
+
+## ⚙️ Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/hasnainalamglt143/KKidney-Disease-classification.git
+cd KKidney-Disease-classification
+```
+
+2. **Create and activate a conda environment**
+
+```bash
+conda create -n kidney python=3.12 -y
+conda activate kidney
+```
+
+3. **Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+4. **(Optional) Install as a package**
+
+```bash
+pip install -e .
+```
+
+---
+
+## 📊 Dataset
+
+* The dataset should be placed in the `data/` folder.
+* Update the dataset path in `config/config.yaml`.
+* You can also manage datasets with **DVC**:
+
+```bash
+dvc pull
+```
+
+---
+
+## 🚀 Usage
+
+### Training the model
+
+```bash
+python src/cnn_classifier/pipeline/train_pipeline.py
+```
+
+### Running evaluation
+
+```bash
+python src/cnn_classifier/pipeline/evaluate_pipeline.py
+```
+
+### Using the trained model
+
+After training, the model will be saved in the `artifacts/` directory. You can load it in Python like this:
+
+```python
+from tensorflow.keras.models import load_model
+
+model = load_model("artifacts/model.h5")
+predictions = model.predict(new_data)
+```
+
+---
+
+## 🔬 Research & Experiments
+
+* All experiments and trials are stored in `research/trials.ipynb`.
+* Hyperparameters can be tuned via `params.yaml`.
+
+---
+
+## 📦 CI/CD & Deployment
+
+* GitHub Actions workflows (`.github/workflows/`) automate testing and deployment.
+* You can integrate this with cloud services (AWS, GCP, Azure, Render, etc.).
+* HTML templates (`templates/index.html`) allow deployment as a **Flask/Django web app**.
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss.
+
+---
+
+## 📧 Author
+
+**Hasnain Alam**
+📩 [hasnainalamglt143@gmail.com](mailto:hasnainalamglt143@gmail.com)
+🔗 [GitHub](https://github.com/hasnainalamglt143)
+
+---
+
+
+---
+
