@@ -37,8 +37,19 @@ This project implements a **Convolutional Neural Network (CNN)** to detect **Kid
 └── README.md               # Project documentation
 ```
 
----
-
+## Workflows🧡💛
+<ul>
+<li> ✅ Update config.yaml</li>
+<li> ✅ Update secrets.yaml [Optional]</li>
+<li> ✅ Update params.yaml</li>
+<li> ✅ Update the entity</li>
+<li> ✅ Update the configuration manager in src config</li>
+<li> ✅ Update the components</li>
+<li> ✅ Update the pipeline</li>
+<li> ✅ Update the main.py</li>
+<li> ✅ Update the dvc.yaml</li>
+</ul>
+app.py
 ## ⚙️ Installation
 
 1. **Clone the repository**

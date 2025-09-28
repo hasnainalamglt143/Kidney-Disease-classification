@@ -52,3 +52,51 @@
 [2025-09-28 01:37:30,731] : 3742834001: INFO: Downloading data from https://drive.google.com/drive/folders/1_TRp5knELC252xg2R3YZjUgD83jSE9GP?usp=sharing into file artifacts/data_ingestion
 [2025-09-28 01:46:32,014] : 3742834001: INFO: Downloading data from https://drive.google.com/drive/folders/1_TRp5knELC252xg2R3YZjUgD83jSE9GP?usp=sharing into file artifacts/data_ingestion
 [2025-09-28 01:47:44,558] : 806920285: INFO: Downloading data from https://drive.google.com/drive/folders/1_TRp5knELC252xg2R3YZjUgD83jSE9GP?usp=sharing into file artifacts/data_ingestion
+[2025-09-28 12:26:56,430] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 12:26:56,453] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 12:26:56,453] : common: INFO: created directory at: artifacts
+[2025-09-28 12:26:56,460] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 12:26:57,292] : 806920285: INFO: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion
+[2025-09-28 13:16:42,534] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 13:16:42,570] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 13:16:42,578] : common: INFO: created directory at: artifacts
+[2025-09-28 13:16:42,581] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 13:18:52,910] : 806920285: INFO: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion
+[2025-09-28 13:45:33,699] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 13:45:33,707] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 13:45:33,711] : common: INFO: created directory at: artifacts
+[2025-09-28 13:45:33,713] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 13:51:42,096] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 13:51:42,103] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 13:51:42,106] : common: INFO: created directory at: artifacts
+[2025-09-28 13:51:42,108] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 17:28:02,952] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 17:28:02,956] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 17:28:02,958] : common: INFO: created directory at: artifacts
+[2025-09-28 17:28:02,960] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 17:28:02,962] : data_ingestion: INFO: Downloading data from https://drive.google.com/file/d/1Tko9HIi34Rsn0Yk59x_nSljKSq_RStU5/view?usp=sharing into file artifacts/data_ingestion/data.zip
+[2025-09-28 17:52:31,922] : data_ingestion: INFO: Downloaded data from https://drive.google.com/file/d/1Tko9HIi34Rsn0Yk59x_nSljKSq_RStU5/view?usp=sharing into file artifacts/data_ingestion/data.zip
+[2025-09-28 17:53:46,837] : main: INFO: data ingestion stage has completed
+[2025-09-28 20:36:00,191] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 20:36:00,211] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 20:36:14,036] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 20:36:14,043] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 20:36:14,043] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-28 20:37:09,227] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 20:37:09,231] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 20:37:09,234] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-28 20:37:41,874] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 20:37:41,881] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 20:37:41,884] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-28 20:38:38,040] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 20:38:38,046] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 20:38:38,049] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-28 20:39:12,433] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 20:39:12,439] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 20:39:12,442] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-28 21:00:49,836] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 21:00:49,845] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 21:00:49,848] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-28 21:42:48,571] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 21:42:48,596] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 21:42:48,605] : common: INFO: created directory at: artifacts/prepare_base_model
