@@ -5,3 +5,50 @@
 [2025-09-27 18:19:40,704] : common: INFO: yaml file 'dvc.yaml' loaded 
 [2025-09-27 18:19:56,675] : common: INFO: yaml file 'dvc.yaml' loaded 
 [2025-09-27 18:20:05,280] : common: INFO: yaml file 'dvc.yaml' loaded 
+[2025-09-28 00:33:21,491] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 00:33:21,514] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 00:35:55,851] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 00:35:55,859] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 00:35:55,859] : common: INFO: created directory at: artifacts
+[2025-09-28 00:36:28,295] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 00:36:28,295] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 00:36:28,303] : common: INFO: created directory at: artifacts
+[2025-09-28 00:37:21,741] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 00:37:21,755] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 00:37:21,755] : common: INFO: created directory at: artifacts
+[2025-09-28 00:37:21,755] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 00:37:52,063] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 00:37:52,071] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 00:37:52,079] : common: INFO: created directory at: artifacts
+[2025-09-28 00:37:52,081] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 00:38:19,200] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 00:38:19,208] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 00:38:19,208] : common: INFO: created directory at: artifacts
+[2025-09-28 00:38:19,218] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 00:38:29,998] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 00:38:30,006] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 00:38:30,006] : common: INFO: created directory at: artifacts
+[2025-09-28 00:38:30,015] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 00:42:51,622] : 125869212: INFO: logging started
+[2025-09-28 01:03:37,077] : 3246838687: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:04:50,783] : 276668564: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:06:29,317] : 1398054905: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:08:22,721] : 2783675243: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:09:00,371] : 699779337: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:11:45,465] : 699779337: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:13:01,879] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 01:13:01,887] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 01:13:01,887] : common: INFO: created directory at: artifacts
+[2025-09-28 01:13:01,887] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 01:13:05,456] : 699779337: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:17:42,167] : 699779337: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:30:27,239] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-28 01:30:27,308] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-28 01:30:27,316] : common: INFO: created directory at: artifacts
+[2025-09-28 01:30:27,322] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-28 01:30:30,490] : 276668564: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:34:23,388] : 1082284754: INFO: directory artifacts/data_ingestion created
+[2025-09-28 01:36:46,210] : 3742834001: INFO: Downloading data from https://drive.google.com/drive/folders/1_TRp5knELC252xg2R3YZjUgD83jSE9GP?usp=sharing into file artifacts/data_ingestion
+[2025-09-28 01:37:30,731] : 3742834001: INFO: Downloading data from https://drive.google.com/drive/folders/1_TRp5knELC252xg2R3YZjUgD83jSE9GP?usp=sharing into file artifacts/data_ingestion
+[2025-09-28 01:46:32,014] : 3742834001: INFO: Downloading data from https://drive.google.com/drive/folders/1_TRp5knELC252xg2R3YZjUgD83jSE9GP?usp=sharing into file artifacts/data_ingestion
+[2025-09-28 01:47:44,558] : 806920285: INFO: Downloading data from https://drive.google.com/drive/folders/1_TRp5knELC252xg2R3YZjUgD83jSE9GP?usp=sharing into file artifacts/data_ingestion
