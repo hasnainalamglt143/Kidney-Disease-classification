@@ -1,4 +1,5 @@
 from cnn_classifier.pipeline.stage01_data_ingestion import DataIngestionPipeine
+from cnn_classifier.pipeline.stage01_model_prep import BaseModelPrepPipeline
 from src import logger
 
 
@@ -12,6 +13,18 @@ try:
 
 
 except Exception as e:
+        
         raise e
 
+
+
+STAGE_NAME2="BASE MODEL PREPARATION STAGE"
+try:
+    logger.info(f"💥 {STAGE_NAME2} STARTED 💥 ")
+    obj=BaseModelPrepPipeline()
+    obj.main()
+    logger.info(f"💥 {STAGE_NAME2} COMPLETED 💥 ")
+    
+except Exception as e:
+          raise e
 
