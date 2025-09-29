@@ -7,4 +7,3 @@ IMAGE_SHAPE: [224, 224, 3]
 LEARNING_RATE: 0.01
 WEIGHTS: imagenet
 
-key: val

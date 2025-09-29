@@ -1,6 +1,8 @@
 from cnn_classifier.constants import  *
 from cnn_classifier.utils.common import read_yaml,create_directories
-from cnn_classifier.entity.config_entity import DataIngestionConfig,BaseModelPrepConfigEntity
+from cnn_classifier.entity.config_entity import DataIngestionConfig,BaseModelPrepConfigEntity,ModelTrainingCofigEntity
+import os
+
 
 class ConfigurationManager():
     def __init__(self,config_filepath=CONFIG_FILE_PATH,params_filepath=PARAMS_FILE_PATH):
@@ -32,3 +34,18 @@ class BaseModelPrepConfigManager():
          params_img_shape=self.params.IMAGE_SHAPE ,params_learning_rate= self.params.LEARNING_RATE, params_weights=self.params.WEIGHTS,params_epochs=self.params.EPOCHS)
 
         return model_preparation_config
+
+
+
+
+
+class ModelTrainingConfigurationManager:
+    def __init__(self,config_filepath=CONFIG_FILE_PATH,params_filepath=PARAMS_FILE_PATH):
+        self.config=read_yaml(config_filepath)
+        self.params=read_yaml(params_filepath)
+        os.makedirs(self.config.model_training.root_dir,exist_ok=True)
+
+    
+    def get_model_config(self):
+       return ModelTrainingCofigEntity(base_model_path=Path(self.config.prepare_base_model.updated_base_model_path),trained_model_path=Path(self.config.model_training.trained_model_path),dataset_path=Path(self.config.data_ingestion.unzip_dir+"/kidney_images"),params_epochs=self.params.EPOCHS,params_batch_size=self.params.BATCH_SIZE,params_learning_rate=self.params.LEARNING_RATE,params_img_shape=self.params.IMAGE_SHAPE,params_weights=self.params.WEIGHTS,params_is_augmented=self.params.AUGMENTATION)
+        

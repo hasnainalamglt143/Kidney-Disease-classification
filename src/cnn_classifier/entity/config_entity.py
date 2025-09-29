@@ -21,3 +21,20 @@ class BaseModelPrepConfigEntity:
     params_img_shape: list 
     params_learning_rate: float 
     params_weights: list
+
+
+
+
+@dataclass(frozen=True)
+class ModelTrainingCofigEntity:
+    base_model_path:Path
+    trained_model_path:Path
+    dataset_path:Path
+    params_is_augmented:bool
+    params_epochs: int
+    params_batch_size: int
+    params_img_shape: list 
+    params_learning_rate: float 
+    params_weights: list
+
+
