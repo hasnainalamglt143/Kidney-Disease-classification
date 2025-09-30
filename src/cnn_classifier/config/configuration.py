@@ -47,5 +47,6 @@ class ModelTrainingConfigurationManager:
 
     
     def get_model_config(self):
+       
        return ModelTrainingCofigEntity(base_model_path=Path(self.config.prepare_base_model.updated_base_model_path),trained_model_path=Path(self.config.model_training.trained_model_path),dataset_path=Path(self.config.data_ingestion.unzip_dir+"/kidney_images"),params_epochs=self.params.EPOCHS,params_batch_size=self.params.BATCH_SIZE,params_learning_rate=self.params.LEARNING_RATE,params_img_shape=self.params.IMAGE_SHAPE,params_weights=self.params.WEIGHTS,params_is_augmented=self.params.AUGMENTATION)
         

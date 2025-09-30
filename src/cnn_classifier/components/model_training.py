@@ -40,12 +40,20 @@ class ModelTraining:
                 directory=self.config.dataset_path,shuffle=True,
                     **dataflow_kwargs )
              
-    @staticmethod 
-    def save_model(path: Path, model: tf.keras.Model): 
-        model.save(path)
+    @staticmethod
+    def save_model(path: Path, model: tf.keras.Model):
+        try:
+            # Method 1: Standard save
+            model.save(path)
+        except Exception as e:
+            print(f"Standard save failed: {e}")
+            print("Trying alternative save method...")
+            raise e
+
+            
+            
         
     def train(self):
-            
             self.steps_per_epoch = self.train_generator.samples // self.train_generator.batch_size 
             self.validation_steps = self.valid_generator.samples // self.valid_generator.batch_size      
             self.model.fit( self.train_generator, epochs=self.config.params_epochs, validation_data=self.valid_generator ) 

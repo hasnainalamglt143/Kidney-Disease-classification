@@ -9,8 +9,7 @@ class BaseModelPrepPipeline:
 
     def main(self):
         model_prep_config=BaseModelPrepConfigManager()
-        cnf=model_prep_config.get_model_preparation_config()
-        model=PrepareBaseModel(config=cnf)
+        model=PrepareBaseModel(config=model_prep_config)
         model.get_base_model()
         model.update_base_model()
 
@@ -19,9 +18,9 @@ STAGE_NAME="BASE MODEL PREPARATION STAGE"
 
 if __name__=="main":
     try:
-       logger.info(f"💥 {STAGE_NAME} STARTED 💥 ")
+       logger.info(f"{STAGE_NAME} STARTED")
        obj=BaseModelPrepPipeline()
        obj.main()
-       logger.info(f"💥 {STAGE_NAME} COMPLETED 💥 ")
+       logger.info(f"{STAGE_NAME} COMPLETED ")
     except Exception as e:
         raise e

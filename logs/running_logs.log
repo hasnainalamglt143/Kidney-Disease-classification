@@ -193,3 +193,227 @@
 [2025-09-29 15:29:20,986] : common: INFO: yaml file 'config\config.yaml' loaded 
 [2025-09-29 15:29:21,006] : common: INFO: yaml file 'params.yaml' loaded 
 [2025-09-29 15:29:21,508] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 15:39:32,446] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:39:32,512] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:39:54,114] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:39:54,121] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:39:55,034] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 15:41:04,168] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:41:04,174] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:41:04,660] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 15:43:42,908] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:43:42,914] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:43:43,426] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 15:44:02,019] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:44:02,025] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:44:02,536] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 15:57:49,702] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:57:49,728] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:57:54,073] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:57:54,080] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:57:55,273] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 15:58:22,295] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:58:22,302] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:58:22,685] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 15:59:09,122] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:59:09,128] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:59:09,522] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 15:59:40,773] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 15:59:40,780] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 15:59:41,333] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 16:01:30,113] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 16:01:30,133] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 16:01:30,634] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 23:03:14,486] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 23:03:14,494] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 23:03:40,010] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 23:03:40,019] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 23:03:41,928] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 23:08:29,892] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 23:08:29,903] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 23:08:31,355] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 23:53:16,107] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 23:53:16,120] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 23:53:17,218] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-29 23:57:52,364] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-29 23:57:52,371] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-29 23:57:52,813] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:00:31,598] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:00:31,606] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:00:32,241] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:01:57,204] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:01:57,211] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:01:57,647] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:05:35,171] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:05:35,177] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:05:35,769] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:06:50,175] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:06:50,184] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:06:50,685] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:08:13,623] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:08:13,630] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:08:14,197] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:12:45,344] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:12:45,353] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:12:45,356] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 00:12:49,549] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:12:49,556] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:12:49,559] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 00:12:51,389] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:12:55,585] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:18:36,311] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:18:36,322] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:18:36,323] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 00:18:37,542] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:18:37,961] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:20:52,921] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:20:52,925] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:20:52,925] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 00:20:53,651] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:20:56,729] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:20:57,148] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:20:57,151] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:23:12,804] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:23:12,807] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:23:12,808] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 00:23:13,405] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:23:16,693] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:23:19,816] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:23:19,820] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:32:58,106] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:32:58,109] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:32:58,110] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 00:32:58,893] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:33:02,401] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:33:05,498] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:33:05,504] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:36:59,376] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:36:59,381] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:36:59,381] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 00:37:00,022] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:37:03,266] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:37:06,525] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:37:06,529] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:37:09,527] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:46:35,991] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:46:35,991] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:46:35,991] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 00:46:36,968] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:46:40,368] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 00:46:40,723] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:46:40,726] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:46:43,949] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:48:38,992] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:48:39,021] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:48:40,357] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:49:18,176] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:49:18,182] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:49:22,734] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:49:22,740] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:49:23,392] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:49:58,059] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:49:58,066] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:49:58,584] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 00:50:13,173] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 00:50:13,182] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 00:50:13,759] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 08:33:54,547] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 08:33:54,605] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 08:33:56,325] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 08:41:56,091] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 08:41:56,128] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 08:41:57,965] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 08:46:56,516] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 08:46:56,520] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 08:46:56,521] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 08:48:51,577] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 08:48:51,577] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 08:50:19,177] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 08:50:19,193] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 08:50:19,194] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 08:50:20,624] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 08:50:23,594] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 08:50:23,900] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 08:50:23,904] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 08:50:26,961] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 08:55:24,452] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 08:55:24,484] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 08:55:25,890] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 08:57:23,450] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 08:57:23,456] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 08:57:23,963] : saving_utils: WARNING: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[2025-09-30 09:02:50,317] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 09:02:50,326] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 09:02:50,329] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 09:02:51,767] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 09:02:55,393] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 09:03:59,054] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 09:03:59,059] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 09:03:59,062] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 09:04:40,117] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 09:04:40,124] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 09:05:25,703] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 09:05:25,711] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 09:05:25,713] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 09:05:26,262] : saving_api: WARNING: The `save_format` argument is deprecated in Keras 3. We recommend removing this argument as it can be inferred from the file path. Received: save_format=keras
+[2025-09-30 09:05:26,262] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 09:05:29,906] : saving_api: WARNING: The `save_format` argument is deprecated in Keras 3. We recommend removing this argument as it can be inferred from the file path. Received: save_format=keras
+[2025-09-30 09:05:29,906] : saving_api: WARNING: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+[2025-09-30 09:09:14,826] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 09:09:14,848] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 09:09:14,851] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 09:10:00,644] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 09:10:00,664] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 12:29:45,767] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 12:29:45,784] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 12:29:45,784] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 12:29:47,273] : saving_api: WARNING: The `save_format` argument is deprecated in Keras 3. We recommend removing this argument as it can be inferred from the file path. Received: save_format=keras
+[2025-09-30 12:29:47,917] : saving_api: WARNING: The `save_format` argument is deprecated in Keras 3. We recommend removing this argument as it can be inferred from the file path. Received: save_format=keras
+[2025-09-30 12:29:48,578] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 12:29:48,584] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 12:31:27,992] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 12:31:28,014] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 12:31:28,014] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 12:31:29,031] : saving_api: WARNING: The `save_format` argument is deprecated in Keras 3. We recommend removing this argument as it can be inferred from the file path. Received: save_format=keras
+[2025-09-30 12:31:30,018] : saving_api: WARNING: The `save_format` argument is deprecated in Keras 3. We recommend removing this argument as it can be inferred from the file path. Received: save_format=keras
+[2025-09-30 12:31:30,653] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 12:31:30,661] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 19:11:45,792] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 19:11:45,805] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 19:11:45,806] : common: INFO: created directory at: artifacts
+[2025-09-30 19:11:45,806] : common: INFO: created directory at: artifacts/data_ingestion
+[2025-09-30 19:11:45,810] : data_ingestion: INFO: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip
+[2025-09-30 19:14:35,114] : data_ingestion: INFO: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip
+[2025-09-30 19:14:36,692] : main: INFO: data ingestion stage has completed
+[2025-09-30 19:14:36,724] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 19:14:36,724] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 19:14:36,724] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 19:14:43,101] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 19:14:43,113] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 19:20:51,905] : main: INFO: BASE MODEL PREPARATION STAGE STARTED  
+[2025-09-30 19:20:51,908] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 19:20:51,911] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 19:20:51,912] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 19:20:53,673] : main: INFO: BASE MODEL PREPARATION STAGE COMPLETED 
+[2025-09-30 19:20:53,674] : main: INFO: BASE MODEL TRAINING STAGE STARTED 
+[2025-09-30 19:20:53,676] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 19:20:53,678] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 19:35:34,975] : main: INFO:  BASE MODEL TRAINING STAGE COMPLETED  
+[2025-09-30 19:55:32,754] : main: INFO: BASE MODEL PREPARATION STAGE STARTED  
+[2025-09-30 19:55:32,774] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 19:55:32,775] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 19:55:32,775] : common: INFO: created directory at: artifacts/prepare_base_model
+[2025-09-30 19:55:35,018] : main: INFO: BASE MODEL PREPARATION STAGE COMPLETED 
+[2025-09-30 19:55:35,018] : main: INFO: BASE MODEL TRAINING STAGE STARTED 
+[2025-09-30 19:55:35,018] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 19:55:35,018] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 20:09:31,167] : main: INFO:  BASE MODEL TRAINING STAGE COMPLETED  
+[2025-09-30 23:38:26,258] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 23:38:26,273] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 23:38:26,278] : common: INFO: created directory at: artifacts
+[2025-09-30 23:38:58,582] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 23:38:58,590] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 23:38:58,590] : common: INFO: created directory at: artifacts
+[2025-09-30 23:40:14,147] : common: INFO: yaml file 'config\config.yaml' loaded 
+[2025-09-30 23:40:14,151] : common: INFO: yaml file 'params.yaml' loaded 
+[2025-09-30 23:40:14,151] : common: INFO: created directory at: artifacts
